@@ -1,8 +1,13 @@
 # SpaceInvaders
 
-Coded with Pygame
+Coded in Python with Pygame.
 
 ![Game screen](graphics/SpaceInvaders.png)
+
+### Controls
+
+Left/right arrow keys to move.  
+Space to shoot lasers.
 
 ### Running the game
 
